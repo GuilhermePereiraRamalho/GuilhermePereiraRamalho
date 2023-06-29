@@ -1,11 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=lemon+milk&pause=1000&color=79CD18&width=435&lines=Hi!+My+name+is+Guilherme+Ramalho;I'm+30+years+old;I'm+from+Londrina%2FPR+Brazil;I'm+a+Back-end+developer)](https://git.io/typing-svg)
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepereiraramalho&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepereiraramalho&theme=tokyonight)
 
-<div style = "display: inline_block"><br/>
+<div align = "center" style = "display: inline_block"><br/>
 <h3>Social:</h3>
 <a href = "https://www.linkedin.com/in/guilherme-ramalho-499972160/">
 <img align = "Center" alt= "linkedin" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://twitter.com/CanalAdamastor">
+<img align = "Center" alt= "twitter" src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <h3>Main Skills:</h3>
   <img align = "Center" alt= "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <h3>Other Knowledge:</h3>
