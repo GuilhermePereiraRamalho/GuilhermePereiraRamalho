@@ -4,7 +4,8 @@
 
 <div style = "display: inline_block"><br/>
 <h3>Social:</h3>
-
+<a href = "https://www.linkedin.com/in/guilherme-ramalho-499972160/">
+<img align = "Center" alt= "linkedin" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <h3>Main Skills:</h3>
   <img align = "Center" alt= "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <h3>Other Knowledge:</h3>
