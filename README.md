@@ -10,15 +10,15 @@
 <a href = "https://twitter.com/CanalAdamastor">
 <img align = "Center" alt= "twitter" src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <h3>Main Skills:</h3>
-  <img align = "Center" alt= "java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+   <img align = "Center" alt= "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align = "Center" alt= "django" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img align = "Center" alt= "mysql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <h3>Other Knowledge:</h3>
-  <img align = "Center" alt= "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align = "Center" alt= "java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align = "Center" alt= "c" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img align = "Center" alt= "latex" src = "https://camo.githubusercontent.com/e464c1da94fa62c15f6a6dc83e36ad97f7310551a4c4f0aa8d1d6a49a89cbe07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c617465782d2532333030383038302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61746578266c6f676f436f6c6f723d7768697465"/>
   <img align = "Center" alt= "html" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align = "Center" alt= "css" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align = "Center" alt= "django" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  
   
 <h3>Tools:</h3>
   <img align = "Center" alt= "intellij" src = "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
