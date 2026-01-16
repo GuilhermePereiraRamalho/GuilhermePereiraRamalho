@@ -11,8 +11,8 @@
 <img align = "Center" alt= "twitter" src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <h3>Main Skills:</h3>
    <img align = "Center" alt= "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+   <img align = "Center" alt= "fastapi" src = "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
    <img align = "Center" alt= "postges" src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  
   
 <h3>Other Knowledge:</h3>
   <img align = "Center" alt= "mysql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
