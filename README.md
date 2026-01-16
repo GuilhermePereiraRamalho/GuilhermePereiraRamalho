@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=lemon+milk&pause=1000&color=79CD18&width=435&lines=Hi!+My+name+is+Guilherme+Ramalho;I'm+31+years+old;I'm+from+Londrina%2FPR+Brazil;I'm+a+Backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=lemon+milk&pause=1000&color=79CD18&width=435&lines=Hi!+My+name+is+Guilherme+Ramalho;I'm+32+years+old;I'm+from+Londrina%2FPR+Brazil;I'm+a+Backend+developer)](https://git.io/typing-svg)
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepereiraramalho&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepereiraramalho&theme=merko)
@@ -11,14 +11,14 @@
 <img align = "Center" alt= "twitter" src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <h3>Main Skills:</h3>
    <img align = "Center" alt= "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align = "Center" alt= "django" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-   <img align = "Center" alt= "java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  
   
 <h3>Other Knowledge:</h3>
   <img align = "Center" alt= "mysql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align = "Center" alt= "c" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img align = "Center" alt= "html" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align = "Center" alt= "css" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align = "Center" alt= "django" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   
   
 <h3>Tools:</h3>
