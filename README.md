@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=lemon+milk&pause=1000&color=79CD18&width=435&lines=Hi!+My+name+is+Guilherme+Ramalho;I'm+33+years+old;I'm+from+Londrina%2FPR+Brazil;I'm+a+Backend+developer)](https://git.io/typing-svg)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=guilhermepereiraramalho&theme=merko)](https://git.io/streak-stats)
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepereiraramalho&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepereiraramalho&theme=merko)
 
 <div align = "center" style = "display: inline_block"><br/>
 <h3>Social:</h3>
