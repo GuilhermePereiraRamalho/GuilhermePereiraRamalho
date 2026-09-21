@@ -1,30 +1,62 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=lemon+milk&pause=1000&color=79CD18&width=435&lines=Hi!+My+name+is+Guilherme+Ramalho;I'm+33+years+old;I'm+from+Londrina%2FPR+Brazil;I'm+a+Backend+developer)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0066CC&height=220&section=header)
 
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=guilhermepereiraramalho&theme=merko)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=lemon+milk&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hello!+Welcome+to+my+profile;My+name+is+Guilherme+Ramalho;Python+Developer+%7C+Data+Science+%7C+Machine+Learning;Brazil)](https://git.io/typing-svg)
 
-<div align = "center" style = "display: inline_block"><br/>
-<h3>Social:</h3>
-<a href = "https://www.linkedin.com/in/guilherme-ramalho-499972160/">
-<img align = "Center" alt= "linkedin" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://twitter.com/CanalAdamastor">
-<img align = "Center" alt= "twitter" src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<h3>Main Skills:</h3>
-   <img align = "Center" alt= "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-   <img align = "Center" alt= "fastapi" src = "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-   <img align = "Center" alt= "postges" src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  
-<h3>Other Knowledge:</h3>
-  <img align = "Center" alt= "mysql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align = "Center" alt= "html" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align = "Center" alt= "css" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align = "Center" alt= "django" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  
-  
-<h3>Tools:</h3>
-  
-  <img align = "Center" alt= "vscode" src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img align = "Center" alt= "win" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img align = "Center" alt= "n++" src = "https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
-    
 </div>
+
+
+<div align="center">
+
+<h3><font color="#00AEEF">🌐 Social</font></h3>
+
+<a href="https://www.linkedin.com/in/guilherme-ramalho-499972160/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/guilhermepereiraramalho">
+  <img src="https://cdn.simpleicons.org/github/8B5CF6" width="40" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/GuiRamalhoP">
+  <img src="https://cdn.simpleicons.org/x/FFFFFF" width="40" alt="Twitter"/>
+</a>
+
+<br><br>
+
+<h3><font color="#00AEEF">🧠 Main Skills</font></h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+
+<br><br>
+
+<h3><font color="#00AEEF">🛠️ Other Knowledge</font></h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=guilhermepereiraramalho&theme=dark&background=0D1117&border=00AEEF&stroke=00AEEF&ring=00AEEF&fire=00AEEF&currStreakLabel=00AEEF&sideLabels=00AEEF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E)](https://git.io/streak-stats)
+
+</div>
+
+<br>
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,60:003B73,100:0D1117&height=150&section=footer)
